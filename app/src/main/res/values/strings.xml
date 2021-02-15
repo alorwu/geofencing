@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Geofencing</string>
+    <string name="title_activity_maps">Geofencing</string>
+
+    <string name="firebase_db_url">https://lateral-vision-303710-default-rtdb.europe-west1.firebasedatabase.app/</string>
+</resources>

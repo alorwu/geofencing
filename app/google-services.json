@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "784056230083",
+    "firebase_url": "https://lateral-vision-303710-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "lateral-vision-303710",
+    "storage_bucket": "lateral-vision-303710.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784056230083:android:133aead670a94afe338276",
+        "android_client_info": {
+          "package_name": "com.codemave.geofencing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpiHXuWZCDCdmEF8y5jvtD1kFykaqI0Xk"
+        },
+        {
+          "current_key": "AIzaSyBW4Up5Na3rDLy8LxrgviP6xRqcOQGEUuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784056230083:android:8b93fb7246132292338276",
+        "android_client_info": {
+          "package_name": "mobicomputing.googlemaps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpiHXuWZCDCdmEF8y5jvtD1kFykaqI0Xk"
+        },
+        {
+          "current_key": "AIzaSyBW4Up5Na3rDLy8LxrgviP6xRqcOQGEUuQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
